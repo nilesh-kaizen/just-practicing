@@ -1,5 +1,6 @@
 # just-practicing
-This is my first git commit and i am learning git 
+This is my first git commit and i am learning git
+This is the second change in the readme file
 
 ##Author
 
