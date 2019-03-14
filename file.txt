@@ -6,3 +6,5 @@ trying again
 agai
 date:4 nov
 Now this is the main branch
+
+Trying to use git terminal to commit this change.
